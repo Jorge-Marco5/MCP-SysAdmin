@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv
+env
+.env
+ENV
+bin
+lib
+
+build
+develop-eggs
+dist
+downloads
+eggs
+.eggs
+*.egg-info
+*.egg
+
+.vscode/
+.idea/
+.env          # Variables de entorno con claves privadas
+.pytest_cache/
+.coverage
+htmlcov/
