@@ -43,7 +43,7 @@ El servidor MCP expone las siguientes herramientas (`Tools`) al LLM:
    pip install -r requirements.txt
    ```
 
-3. Configuracion de variables de entorno
+3. **Configuracion de variables de entorno**
 
    ```
    cp .env.example .env
@@ -62,7 +62,7 @@ El servidor MCP expone las siguientes herramientas (`Tools`) al LLM:
    ejecucion del cliente
 
    ```
-
+   python client/main.py
    ```
 
 ## 🏗️ Arquitectura
